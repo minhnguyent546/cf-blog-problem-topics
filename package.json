@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  },
+  "name": "cf-problem-topics",
+  "version": "1.0.0",
+  "description": "Codeforces blog: problem topics",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "minhnguyent546",
+  "license": "MIT"
+}
