@@ -97,7 +97,7 @@ const renderMarkdown = async (source, markdown) => {
 }
 
 (async () => {
-  const problemsFile = 'problem-by-topics';
+  const problemsFile = 'problems-by-topic';
   const markdown = 'README.md';
   try {
     await fetchProblems(problemsFile);
