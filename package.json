@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "puppeteer": "^20.9.0"
+    "puppeteer": "^22.12.0"
   },
   "name": "cf-problem-topics",
   "version": "1.0.0",
